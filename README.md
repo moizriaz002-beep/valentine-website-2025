@@ -187,7 +187,7 @@ Want to make it extra special with your own romantic song? Follow these steps to
 music: {
     enabled: true,
     autoplay: true,
-    musicUrl: "https://collection.cloudinary.com/dadwtmeqy/a7bcd66df5da47f1863021564b08ee64", // Paste your URL here
+    musicUrl: "https://collection.cloudinary.com/dadwtmeqy/a7bcd66df5da47f1863021564b08ee64",
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
